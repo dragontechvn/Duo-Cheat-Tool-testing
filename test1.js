@@ -7,8 +7,8 @@
 // @match        https://*.duolingo.com/*
 // @icon         https://www.google.com/s2/favicons?domain=duolingo.com
 // @grant        none
-// @downloadURL https://update.greasyfork.org/scripts/453363/Duolingo-Cheat-Tool.user.js
-// @updateURL https://update.greasyfork.org/scripts/453363/Duolingo-Cheat-Tool.meta.js
+// @downloadURL https://raw.githubusercontent.com/dragontechvn/Duo-Cheat-Tool-testing/refs/heads/main/test1.js
+// @updateURL https://raw.githubusercontent.com/dragontechvn/Duo-Cheat-Tool-testing/refs/heads/main/test1.js
 // ==/UserScript==
  
 const DEBUG = true;
